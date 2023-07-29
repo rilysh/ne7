@@ -54,3 +54,4 @@ dkms.conf
 # Others
 .vscode
 ne7
+test.c
